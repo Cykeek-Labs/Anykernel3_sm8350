@@ -4,10 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=McQuaid
-kernel.compiler=WeebX Clang
-kernel.made=TogoFire
-message.word=Join @TogoFireChannel & @McQuaidKernel
+kernel.string=Meraki
+kernel.compiler=Playground Clang
+kernel.made=CYKEEK
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -23,6 +22,9 @@ device.name7=OnePlus9TMO
 device.name8=lemonadet
 device.name9=OnePlus9VZW
 device.name10=lemonadev
+device.name11=porsche
+device.name12=RMX3312
+device.name13=RE58B2L1
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
